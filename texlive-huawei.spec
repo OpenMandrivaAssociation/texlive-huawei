@@ -1,6 +1,6 @@
 Name:		texlive-huawei
-Version:	65264
-Release:	2
+Version:	68336
+Release:	1
 Summary:	Template for Huawei documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/huawei
