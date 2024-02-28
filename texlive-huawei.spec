@@ -1,5 +1,5 @@
 Name:		texlive-huawei
-Version:	68336
+Version:	69871
 Release:	1
 Summary:	Template for Huawei documents
 Group:		Publishing
